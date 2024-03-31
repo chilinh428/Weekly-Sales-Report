@@ -5,6 +5,8 @@ An Excel dashboard which provides a visual overview of weekly sales performance,
 
 ## Key features
 
+> Data Consolidation: The dashboard consolidates data from multiple sources, ensuring all relevant information is presented in a single, unified view.
+
 > Overview of Key Metrics:
 The dashboard provides a clear summary of key sales metrics for the week, such as total revenue, sales growth rate, sales by product category, store ranking by sales, etc.
 
